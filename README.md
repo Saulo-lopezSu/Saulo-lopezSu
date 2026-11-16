@@ -10,7 +10,7 @@ Conecto hardware y software: circuito, firmware y monitoreo en computadora o cel
 - Apps móviles con **Flutter**
 
 ## 🚀 Proyectos destacados
-- **[Reactor batch para biodiésel](https://github.com/Saulo-lopezSu/reactor-biodiesel)**: monitoreo y control de temperatura y agitación con Arduino y Python. *(próximamente en GitHub)*
+- **[Reactor batch para biodiésel](https://github.com/Saulo-lopezSu/Reactor_batch_para_biodiesel)**: monitoreo y control de temperatura y agitación con Arduino y Python. 
 - **[Temperatura con Arduino](https://github.com/Saulo-lopezSu/temperatura_con_arduino)**: sensor LM35 con pantalla LCD.
 - **Brazo robótico con Raspberry Pi**: control con joysticks, rutinas desde CSV y app móvil. *(próximamente en GitHub)*
 
