@@ -24,7 +24,7 @@ Conecto hardware y software: circuito, firmware y monitoreo en computadora o cel
 
 ## 📫 Contacto
 - Correo: saglo_2000@hotmail.com
-- LinkedIn: [agrega tu enlace]
+<!--- LinkedIn: [agrega tu enlace]-->
 
 <!---
 Saulo-lopezSu/Saulo-lopezSu is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
